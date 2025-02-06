@@ -85,7 +85,6 @@ I am a **Data Scientist & Big Data Engineer** with a strong foundation in Machin
 ## **Contact**  
 📧 **Email:** [reddydakshayeni@gmail.com](mailto:reddydakshayeni@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/dakshayeni](https://linkedin.com/in/dakshayeni/)  
-🌍 **Portfolio:** [GitHub Pages](https://dakshayeni.github.io/)  
 
 ---
 
