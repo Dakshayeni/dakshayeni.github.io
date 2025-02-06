@@ -2,7 +2,7 @@
 > Data Scientist | Data Engineer | Machine Learning Enthusiast  
 > Passionate about transforming data into insights and building scalable solutions.  
 
-🔗 **[GitHub](https://github.com/Dakshayeni) | [LinkedIn](https://linkedin.com/in/dakshayeni) | [Email](mailto:reddydakshayeni@gmail.com)**  
+🔗 [GitHub](https://github.com/Dakshayeni) | [LinkedIn](https://linkedin.com/in/dakshayeni) | [Email](mailto:reddydakshayeni@gmail.com)  
 
 ---
 
