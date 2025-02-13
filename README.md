@@ -54,12 +54,12 @@ I am a **Data Scientist & Big Data Engineer** with a strong foundation in Machin
 🔗 **[GitHub](https://github.com/Dakshayeni/book-recommendation)**  
 
 ** Analytics in Retail Sales: A Machine Learning Approach to Enhancing Customer Experience**	
-•	Developed a machine learning solution to enhance predictive analytics for retail sales forecasting.
-•	Utilized algorithms such as Linear Regression, K-Means clustering, and Artificial Neural Networks (ANNs) to predict sales trends and customer purchase behaviors.
-•	Preprocessed a large dataset (~1.9M records) involving product descriptions, user transactions, and store location data from a multi-national retail chain.
-•	Improved the accuracy of sales predictions by fine-tuning models and applying advanced feature engineering techniques.
-•	Created insightful visualizations, including monthly sales patterns, customer segmentation, and geographical sales trends, helping retail managers in strategic decision-making.
-•	Applied clustering techniques to identify customer groups, which led to targeted marketing campaigns and optimized product bundling.
+- Developed a machine learning solution to enhance predictive analytics for retail sales forecasting.
+- Utilized algorithms such as Linear Regression, K-Means clustering, and Artificial Neural Networks (ANNs) to predict sales trends and customer purchase behaviors.
+- Preprocessed a large dataset (~1.9M records) involving product descriptions, user transactions, and store location data from a multi-national retail chain.
+- Improved the accuracy of sales predictions by fine-tuning models and applying advanced feature engineering techniques.
+- Created insightful visualizations, including monthly sales patterns, customer segmentation, and geographical sales trends, helping retail managers in strategic decision-making.
+- Applied clustering techniques to identify customer groups, which led to targeted marketing campaigns and optimized product bundling.
 
 
 ### **Predictive Modeling of Chicago Crime Patterns** *(Jan 2024 – May 2024)*  
