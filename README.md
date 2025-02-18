@@ -47,13 +47,28 @@ I am a **Data Scientist & Big Data Engineer** with a strong foundation in Machin
 
 ## **Projects**  
 
-### **Book Recommendation System** *(Aug 2024 – Dec 2024)*  
+### **[Book Recommendation System](https://github.com/Dakshayeni/book-recommendation)**
 **Tech Stack:** Python, Scikit-learn, Data Mining, KNN  
-🔹 Built a **collaborative filtering recommendation system** using **K-Nearest Neighbors (KNN)**.  
-🔹 Improved accuracy through **data preprocessing and cosine similarity metrics**.  
-🔗 **[GitHub](https://github.com/Dakshayeni/book-recommendation)**  
+- Built a **collaborative filtering recommendation system** using **K-Nearest Neighbors (KNN)**.  
+- Improved accuracy through **data preprocessing and cosine similarity metrics**.
 
-** Analytics in Retail Sales: A Machine Learning Approach to Enhancing Customer Experience**	
+### **[Interest Rate Prediction using RNN and LSTM](https://github.com/Dakshayeni/Interest-Rate-Prediction-using-RNN-and-LSTM)**
+- Developed a deep learning model using RNN and LSTM to predict interest rates based on historical economic data.
+- Preprocessed and normalized macroeconomic indicators, including the Federal Funds Rate and unemployment rates, to improve model accuracy.
+- Implemented time-series forecasting techniques to analyze temporal dependencies and long-term trends in financial data.
+- Optimized model performance using hyperparameter tuning and evaluated accuracy using Mean Squared Error (MSE).
+- Visualized predicted vs. actual interest rates to interpret model performance and derive economic insights.
+- Demonstrated expertise in deep learning, time-series analysis, and financial forecasting using Python and TensorFlow/Keras.
+
+### **[Image classification CNN](https://github.com/Dakshayeni/Image-classification-CNN)** 
+- Developed a Convolutional Neural Network (CNN) model to classify images of cats and dogs using the Kaggle "Dogs vs. Cats" dataset.**  
+- Implemented data preprocessing techniques, including dataset splitting, normalization, and augmentation, to improve model generalization.  
+- Experimented with five different CNN architectures to optimize classification accuracy and reduce overfitting.  
+- Applied dropout regularization and data augmentation techniques to enhance model robustness and prevent overfitting.  
+- Achieved high classification accuracy by fine-tuning hyperparameters and monitoring training/validation loss curves.  
+
+
+### **[Analytics in Retail Sales: A Machine Learning Approach to Enhancing Customer Experience](https://github.com/Dakshayeni/MachineLearning-Walmart-Retail-Analysis)**	
 - Developed a machine learning solution to enhance predictive analytics for retail sales forecasting.
 - Utilized algorithms such as Linear Regression, K-Means clustering, and Artificial Neural Networks (ANNs) to predict sales trends and customer purchase behaviors.
 - Preprocessed a large dataset (~1.9M records) involving product descriptions, user transactions, and store location data from a multi-national retail chain.
@@ -62,22 +77,16 @@ I am a **Data Scientist & Big Data Engineer** with a strong foundation in Machin
 - Applied clustering techniques to identify customer groups, which led to targeted marketing campaigns and optimized product bundling.
 
 
-### **Predictive Modeling of Chicago Crime Patterns** *(Jan 2024 – May 2024)*  
+### **[Predictive Modeling of Chicago Crime Patterns](https://github.com/Dakshayeni/chicago-crime)**
  **Tech Stack:** Python, SQL, Tableau, PySpark, GCP  
-🔹 Built **crime prediction models** using **XGBoost, Decision Trees, Random Forest, Naive Bayes** (up to **97% accuracy**).  
-🔹 Conducted **performance analysis (1-4 worker nodes on GCP)** to optimize execution time.  
-🔗 **[GitHub](https://github.com/Dakshayeni/chicago-crime)**  
+- Built **crime prediction models** using **XGBoost, Decision Trees, Random Forest, Naive Bayes** (up to **97% accuracy**).
+- Conducted **performance analysis (1-4 worker nodes on GCP)** to optimize execution time.  
 
-### **NYC Vehicle Collision Analysis** *(Aug 2023 – Dec 2023)*  
+### **[NYC Vehicle Collision Analysis](https://github.com/Dakshayeni/nyc-collision-analysis)**  
  **Tech Stack:** Python, Pandas, Tableau  
-🔹 Conducted **statistical analysis (Chi-square, ANOVA)** on **New York vehicle collisions**.  
-🔹 Developed **interactive Tableau dashboards** for accident trend visualization.  
-🔗 **[GitHub](https://github.com/Dakshayeni/nyc-collision-analysis)**  
-
-### **Travel Planner App (Ongoing)** *(Jan 2025 – Present)*  
- **Tech Stack:** Streamlit, Groq Cloud, Llama 3.3 LLM, Google Maps API  
-🔹 Developing an AI-powered **travel planner** that generates **personalized itineraries**.  
-🔗 **[GitHub](https://github.com/Dakshayeni/travel-planner)**  
+- Conducted **statistical analysis (Chi-square, ANOVA)** on **New York vehicle collisions**.  
+- Developed **interactive Tableau dashboards** for accident trend visualization.    
+  
 
 ---
 
