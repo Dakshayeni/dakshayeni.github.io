@@ -21,7 +21,7 @@ I am a **Data Scientist & Big Data Engineer** with a strong foundation in Machin
 
 ## **Experience**  
 
-### **🔹 Research Assistant – Stevens Institute of Technology** *(Aug 2024 – Dec 2024)*  
+### **🔹 Research Assistant – Stevens Institute of Technology** *(Aug 2023 – Jan 2025)*  
 - Developing a **Retrieval-Augmented Generation (RAG) model** to enhance text generation using external knowledge sources.  
 - Implemented **advanced NLP techniques** such as embeddings, tokenization, and fine-tuning to improve model accuracy.  
 
